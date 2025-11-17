@@ -1,1 +1,1 @@
-"# GNN course" 
+# GNN course
